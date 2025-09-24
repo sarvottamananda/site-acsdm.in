@@ -1,0 +1,5 @@
+baseURL = "http://acsdm.in/acsdm/"
+languageCode = "en-us"
+title = "ACSDM - new"
+disableKinds = ['section', 'taxonomy', 'term']
+

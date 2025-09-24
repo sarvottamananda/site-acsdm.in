@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="">
+<meta name="author" content="SS, SG">
+<link rel="icon" href="favicon.ico">
+<title>{{ block "title" .}}
+<!-- Blocks may include default content. -->
+{{ .Site.Title }}
+{{ end }}
+</title>
+<!-- Bootstrap core CSS -->
+<link href="../css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+</head>
+<body style="min-height:75rem">
+{{ partial "nav.html" }}
+
+<main role="main" class="container mt-3">
+<!-- Code that all your templates share, like a header -->
+{{ block "main" . }}
+<!-- The part of the page that begins to differ between templates -->
+{{ end }}
+</main>
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<!--
+<script src="../js/jquery-3.7.1.slim.min.js"></script>
+<script src="../js/popper.min.js"></script>
+-->
+<script src="../js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+</body>
+</html>
