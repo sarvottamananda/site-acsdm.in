@@ -2,7 +2,12 @@
 
 public/
 
+
 # hugo files
 
 hugo.exe
 .hugo_build.lock
+
+# protected files
+
+run-sync.sh
