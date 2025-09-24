@@ -1,2 +1,8 @@
-.hugo_build.lock
+# HTML files added by hugo
+
 public/
+
+# hugo files
+
+hugo.exe
+.hugo_build.lock
