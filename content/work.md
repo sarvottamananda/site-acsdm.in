@@ -13,14 +13,14 @@ Till date, ACSDM has organized conferences in
 [PSGTech, Coimbatore (2025)](https://caldam2025.psgtech.ac.in/),  
 [IIT Bhilai (2024)](https://events.iitbhilai.ac.in/caldam2024/),  
 [DAIICT, Gandhinagar (2023)](https://caldam2023.daiict.ac.in/),  
-[Pondicherry University (2022)](https://sites.google.com/pondiuni.ac.in/maths-caldam-2022),  
+[Pondicherry University (2022)](/caldam/2022),  
 [IIT Ropar (2021)](https://www.iitrpr.ac.in/caldam2021/),  
-[IIT Hyderabad (2020)](http://www.iith.ac.in/~caldam2020/),  
+[IIT Hyderabad (2020)](/caldam/2020/),  
 [IIT Kharagpur (2019)](http://cse.iitkgp.ac.in/conf/CALDAM/),  
 [IIT Guwahati (2018)](/caldam/2018/),  
 [BITS Pilani, Goa (2017)](/caldam/2017/),  
 [University of Kerala, Thiruvananthapuram (2016)](/caldam/2016/) and  
-[IIT Kanpur (2015)](http://caldam.cse.iitk.ac.in/).
+[IIT Kanpur (2015)](/caldam/2015/).
 
 
 ### Pre Conference Schools
@@ -30,12 +30,12 @@ Till date, ACSDM has organized
 [Indo-Spanish](https://caldam2025.psgtech.ac.in/pre-conference-school),
 [Indo-Slovenian](https://events.iitbhilai.ac.in/caldam2024/pre-conf/),
 [Indo-Duch](https://caldam2023.daiict.ac.in/workshop.php),
-[Indo-French](https://people.iith.ac.in/caldam2020/conferenceschool.php),
+[Indo-French](/caldam/2020/conferenceschool.php),
 [Indo-Italian](http://cse.iitkgp.ac.in/conf/CALDAM/conferenceschool.php),
 [Indo-Canadian](http://acsdm.in/caldam/2018/conferenceschool.php),
 [Indo-German](http://acsdm.in/caldam/2017/pre_conference_school.html),
 [Indo-Hungarian](http://acsdm.in/caldam/2016/pre_conference_school.html) and
-[Indo-Czech](https://caldam.cse.iitk.ac.in/pre_conference_school.php) schools
+[Indo-Czech](/caldam/2015/pre_conference_school.php) schools
 
 ### National Workshops for Promoting Research
 
